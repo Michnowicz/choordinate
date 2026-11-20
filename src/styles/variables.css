@@ -1,0 +1,17 @@
+:root {
+    /* Colors */
+    --bg-default: #2e323d;
+    --bg-screen: #bce5f7;
+    --screen-shadow: #202e3c;
+
+    --border-white: #bdc4d4;
+    --border-grey: #505564;
+    
+    --btn-default: #1f232f;
+    --btn-selected: #141821;
+    --btn-neonblue: #5dcecc;
+    --btn-shadow: #0d111a;
+
+    --txt-white: #f2f2f8;
+    --txt-darkblue: #0f4e84;
+}
