@@ -5,8 +5,8 @@ import { invoke } from '@tauri-apps/api/core';
 import type { Dispatch, SetStateAction } from "react";
 
 type Props = {
-    selectedChord : Chord;
-    setSelectedChord : Dispatch<SetStateAction<Chord>>;
+    selectedChord : Chord | null;
+    setSelectedChord: Dispatch<SetStateAction<Chord | null>>;
 }
 async function getChords(): Promise<Chord[]> {
     return await invoke<Chord[]>('get_chords');

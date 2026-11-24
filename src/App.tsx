@@ -20,7 +20,7 @@ export type Chord = {
 function App() {
   const notes : string[] = (["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"]);
   const [selectedNote, setSelectedNote] = useState<Note>({name : "", index: 0});
-  const [selectedChord, setSelectedChord] = useState<Chord>({});
+  const [selectedChord, setSelectedChord] = useState<Chord | null>(null);
 
   return (
     <main>
