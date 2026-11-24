@@ -22,7 +22,7 @@
 .noteButton:hover {
     background-color: var(--btn-selected);
 }
-.noteButton:focus {
+.noteButton.selected {
     color: var(--btn-neonblue);
     background-color: var(--btn-selected);
     border: 1px solid var(--btn-neonblue);

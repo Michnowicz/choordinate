@@ -1,0 +1,1150 @@
+[
+  {
+    "fullname": "major",
+    "symbol": "maj",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8
+    ],
+    "index": [
+      0,
+      4,
+      7
+    ],
+    "small_index": [
+      0,
+      4,
+      7
+    ]
+  },
+  {
+    "fullname": "fifth",
+    "symbol": "5",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      8
+    ],
+    "small_annotation": [
+      1,
+      8
+    ],
+    "index": [
+      0,
+      7
+    ],
+    "small_index": [
+      0,
+      7
+    ]
+  },
+  {
+    "fullname": "suspended fourth",
+    "symbol": "sus4",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      6,
+      8
+    ],
+    "small_annotation": [
+      1,
+      6,
+      8
+    ],
+    "index": [
+      0,
+      5,
+      7
+    ],
+    "small_index": [
+      0,
+      5,
+      7
+    ]
+  },
+  {
+    "fullname": "suspended second",
+    "symbol": "sus2",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      3,
+      8
+    ],
+    "small_annotation": [
+      1,
+      3,
+      8
+    ],
+    "index": [
+      0,
+      2,
+      7
+    ],
+    "small_index": [
+      0,
+      2,
+      7
+    ]
+  },
+  {
+    "fullname": "added ninth",
+    "symbol": "(add9)",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      2
+    ]
+  },
+  {
+    "fullname": "sixth",
+    "symbol": "6",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      10
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      10
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      9
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      9
+    ]
+  },
+  {
+    "fullname": "sixth, added ninth",
+    "symbol": "6/9",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      10,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      10,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      9,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      9,
+      2
+    ]
+  },
+  {
+    "fullname": "major seven",
+    "symbol": "maj7",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      12
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      12
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      11
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      11
+    ]
+  },
+  {
+    "fullname": "major ninth",
+    "symbol": "maj9",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      12,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      12,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      11,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      11,
+      2
+    ]
+  },
+  {
+    "fullname": "major seven, sharp eleventh",
+    "symbol": "maj7#11",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      12,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      12,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      11,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      11,
+      2
+    ]
+  },
+  {
+    "fullname": "major thirteenth",
+    "symbol": "maj13",
+    "chord_type": "major",
+    "annotation": [
+      1,
+      5,
+      8,
+      12,
+      15,
+      22
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      12,
+      3,
+      10
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      11,
+      14,
+      21
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      11,
+      2,
+      9
+    ]
+  },
+  {
+    "fullname": "minor",
+    "symbol": "m",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8
+    ],
+    "index": [
+      0,
+      3,
+      7
+    ],
+    "small_index": [
+      0,
+      3,
+      7
+    ]
+  },
+  {
+    "fullname": "minor, added ninth",
+    "symbol": "m(add9)",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      15
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      3
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      14
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      2
+    ]
+  },
+  {
+    "fullname": "minor sixth",
+    "symbol": "m6",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      10
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      10
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      9
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      9
+    ]
+  },
+  {
+    "fullname": "minor, flat sixth",
+    "symbol": "mb6",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      9
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      9
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      8
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      8
+    ]
+  },
+  {
+    "fullname": "minor sixth, added ninth",
+    "symbol": "m6/9",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      10,
+      15
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      10,
+      3
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      9,
+      14
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      9,
+      2
+    ]
+  },
+  {
+    "fullname": "minor seventh",
+    "symbol": "m7",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      11
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      11
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      10
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      10
+    ]
+  },
+  {
+    "fullname": "minor seventh, flat fifth",
+    "symbol": "m7b5",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      7,
+      11
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      11
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      10
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      10
+    ]
+  },
+  {
+    "fullname": "minor ninth",
+    "symbol": "m9",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      11,
+      15
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      11,
+      3
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      10,
+      14
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      10,
+      2
+    ]
+  },
+  {
+    "fullname": "minor eleventh",
+    "symbol": "m11",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      11,
+      15,
+      18
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      11,
+      3,
+      6
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      10,
+      14,
+      17
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      10,
+      2,
+      5
+    ]
+  },
+  {
+    "fullname": "minor thirteenth",
+    "symbol": "m13",
+    "chord_type": "minor",
+    "annotation": [
+      1,
+      4,
+      8,
+      11,
+      15,
+      18,
+      22
+    ],
+    "small_annotation": [
+      1,
+      4,
+      8,
+      11,
+      3,
+      6,
+      10
+    ],
+    "index": [
+      0,
+      3,
+      7,
+      10,
+      14,
+      17,
+      21
+    ],
+    "small_index": [
+      0,
+      3,
+      7,
+      10,
+      2,
+      5,
+      9
+    ]
+  },
+  {
+    "fullname": "dominant seventh",
+    "symbol": "7",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      5,
+      8,
+      11
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      11
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      10
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      10
+    ]
+  },
+  {
+    "fullname": "seventh, suspended fourth",
+    "symbol": "7sus4",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      6,
+      8,
+      11
+    ],
+    "small_annotation": [
+      1,
+      6,
+      8,
+      11
+    ],
+    "index": [
+      0,
+      5,
+      7,
+      10
+    ],
+    "small_index": [
+      0,
+      5,
+      7,
+      10
+    ]
+  },
+  {
+    "fullname": "ninth",
+    "symbol": "9",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      5,
+      8,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      2
+    ]
+  },
+  {
+    "fullname": "ninth, suspended fourth",
+    "symbol": "9sus4",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      6,
+      8,
+      15
+    ],
+    "small_annotation": [
+      1,
+      6,
+      8,
+      3
+    ],
+    "index": [
+      0,
+      5,
+      7,
+      14
+    ],
+    "small_index": [
+      0,
+      5,
+      7,
+      2
+    ]
+  },
+  {
+    "fullname": "eleventh",
+    "symbol": "11",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      8,
+      11,
+      15,
+      18
+    ],
+    "small_annotation": [
+      1,
+      8,
+      11,
+      3,
+      6
+    ],
+    "index": [
+      0,
+      7,
+      10,
+      14,
+      17
+    ],
+    "small_index": [
+      0,
+      7,
+      10,
+      2,
+      5
+    ]
+  },
+  {
+    "fullname": "thirteenth",
+    "symbol": "13",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      5,
+      8,
+      11,
+      15,
+      22
+    ],
+    "small_annotation": [
+      1,
+      5,
+      8,
+      11,
+      3,
+      10
+    ],
+    "index": [
+      0,
+      4,
+      7,
+      10,
+      14,
+      21
+    ],
+    "small_index": [
+      0,
+      4,
+      7,
+      10,
+      2,
+      9
+    ]
+  },
+  {
+    "fullname": "thirteenth, suspended fourth",
+    "symbol": "13sus4",
+    "chord_type": "dominant",
+    "annotation": [
+      1,
+      6,
+      8,
+      11,
+      15,
+      22
+    ],
+    "small_annotation": [
+      1,
+      6,
+      8,
+      11,
+      3,
+      10
+    ],
+    "index": [
+      0,
+      5,
+      7,
+      10,
+      14,
+      21
+    ],
+    "small_index": [
+      0,
+      5,
+      7,
+      10,
+      2,
+      9
+    ]
+  },
+  {
+    "fullname": "augmented",
+    "symbol": "+",
+    "chord_type": "augmented",
+    "annotation": [
+      1,
+      5,
+      9
+    ],
+    "small_annotation": [
+      1,
+      5,
+      9
+    ],
+    "index": [
+      0,
+      4,
+      8
+    ],
+    "small_index": [
+      0,
+      4,
+      8
+    ]
+  },
+  {
+    "fullname": "augmented seventh",
+    "symbol": "+7",
+    "chord_type": "augmented",
+    "annotation": [
+      1,
+      5,
+      9,
+      11
+    ],
+    "small_annotation": [
+      1,
+      5,
+      9,
+      11
+    ],
+    "index": [
+      0,
+      4,
+      8,
+      10
+    ],
+    "small_index": [
+      0,
+      4,
+      8,
+      10
+    ]
+  },
+  {
+    "fullname": "augmented ninth",
+    "symbol": "+9",
+    "chord_type": "augmented",
+    "annotation": [
+      1,
+      5,
+      9,
+      11,
+      15
+    ],
+    "small_annotation": [
+      1,
+      5,
+      9,
+      3
+    ],
+    "index": [
+      0,
+      4,
+      8,
+      10,
+      14
+    ],
+    "small_index": [
+      0,
+      4,
+      8,
+      2
+    ]
+  },
+  {
+    "fullname": "diminished",
+    "symbol": "dim",
+    "chord_type": "diminished",
+    "annotation": [
+      1,
+      4,
+      7
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7
+    ],
+    "index": [
+      0,
+      3,
+      6
+    ],
+    "small_index": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "fullname": "diminished seventh",
+    "symbol": "dim7",
+    "chord_type": "diminished",
+    "annotation": [
+      1,
+      4,
+      7,
+      10
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      10
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      9
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      9
+    ]
+  },
+  {
+    "fullname": "diminished ninth",
+    "symbol": "dim9",
+    "chord_type": "diminished",
+    "annotation": [
+      1,
+      4,
+      7,
+      10,
+      15
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      10,
+      3
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      9,
+      14
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      9,
+      2
+    ]
+  },
+  {
+    "fullname": "half-diminished",
+    "symbol": "°",
+    "chord_type": "half-diminished",
+    "annotation": [
+      1,
+      4,
+      7
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7
+    ],
+    "index": [
+      0,
+      3,
+      6
+    ],
+    "small_index": [
+      0,
+      3,
+      6
+    ]
+  },
+  {
+    "fullname": "half-diminished seventh",
+    "symbol": "°7",
+    "chord_type": "half-diminished",
+    "annotation": [
+      1,
+      4,
+      7,
+      11
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      11
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      10
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      10
+    ]
+  },
+  {
+    "fullname": "half-diminished ninth",
+    "symbol": "°9",
+    "chord_type": "half-diminished",
+    "annotation": [
+      1,
+      4,
+      7,
+      11,
+      15
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      11,
+      3
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      10,
+      14
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      10,
+      2
+    ]
+  },
+  {
+    "fullname": "half-diminished, flat ninth",
+    "symbol": "°b9",
+    "chord_type": "half-diminished",
+    "annotation": [
+      1,
+      4,
+      7,
+      11,
+      14
+    ],
+    "small_annotation": [
+      1,
+      4,
+      7,
+      11,
+      2
+    ],
+    "index": [
+      0,
+      3,
+      6,
+      10,
+      13
+    ],
+    "small_index": [
+      0,
+      3,
+      6,
+      10,
+      1
+    ]
+  }
+]

@@ -8,6 +8,7 @@ type Props = {
     setSelectedNote : React.Dispatch<React.SetStateAction<Note>>;
 }
 
+
 export default function Notes({notes, selectedNote, setSelectedNote}: Props) {
     useEffect(()=>{
         console.log(selectedNote)
@@ -22,7 +23,7 @@ export default function Notes({notes, selectedNote, setSelectedNote}: Props) {
                 { notes ?
                     notes.map((n,i)=>(
                         <button 
-                        className="noteButton"
+                        className={`noteButton ${selectedNote?.index === i ? "selected" : ""}`}
                         key={i} 
                         onClick={()=>setSelectedNote({name : n, index : i})}>
                             {n}
